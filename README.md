@@ -1,5 +1,4 @@
-![Screenshot 2024-11-03 215635](https://github.com/user-attachments/assets/c5f924a2-c7f9-4917-8770-000453b7b4bc)# Calculator-and-Iris-Prediction-API
-Here's a sample README file you can use for your GitHub repository, detailing both projects, along with sections for including images.
+
 
 
 # Projects Overview
