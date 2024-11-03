@@ -1,7 +1,7 @@
-# Calculator-and-Iris-Prediction-API
+![Screenshot 2024-11-03 215635](https://github.com/user-attachments/assets/c5f924a2-c7f9-4917-8770-000453b7b4bc)# Calculator-and-Iris-Prediction-API
 Here's a sample README file you can use for your GitHub repository, detailing both projects, along with sections for including images.
 
-```markdown
+
 # Projects Overview
 
 This repository contains two projects implemented using FastAPI and Streamlit. The first project is a simple calculator API, while the second project involves predicting the species of iris flowers using a machine learning model.
@@ -34,10 +34,13 @@ streamlit run app.py
 
 ### Screenshots
 
-![Calculator API]("C:\Users\SOUMITA\OneDrive\Pictures\Screenshots\Screenshot 2024-11-03 215551.png")
-![Calculator Streamlit App]("C:\Users\SOUMITA\OneDrive\Pictures\Screenshots\Screenshot 2024-11-03 215635.png")
+--![Screenshot 2024-11-03 215551](https://github.com/user-attachments/assets/2e261723-a690-4e5f-9446-07bf687ef035)
 
----
+
+![Screenshot 2024-11-03 215635](https://github.com/user-attachments/assets/1e54429b-3d42-44c7-91da-06fbd18b7fc5)
+
+
+-
 
 ## Project 2: Iris Species Prediction
 
@@ -69,10 +72,11 @@ streamlit run iris_app.py
 
 ### Screenshots
 
-![Iris Prediction API]("C:\Users\SOUMITA\OneDrive\Pictures\Screenshots\Screenshot 2024-11-03 214937.png")
-![Iris Streamlit App]("C:\Users\SOUMITA\OneDrive\Pictures\Screenshots\Screenshot 2024-11-03 215006.png")
 
----
+---![Screenshot 2024-11-03 214937](https://github.com/user-attachments/assets/839bbd43-1ed5-455a-93c6-5fbfa1477aa8)
+![Screenshot 2024-11-03 215006](https://github.com/user-attachments/assets/d65ae53f-b879-4085-998b-72adfcb1307c)
+
+
 
 ## Requirements
 
@@ -98,5 +102,5 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Author
 
 Soumita Sahu
-```
+
 
